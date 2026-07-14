@@ -172,6 +172,19 @@ prescription delivery directly to high-risk residential zip codes.
 
 ---
 
+## Interactive Folium Map Showcasing Charlotte "Crescent
+## New File in This Repository
+
+- `charlotte_map.py` — Interactive geographic readmission map generator
+
+## How to Run
+
+1. Clone this repository
+2. Install dependencies: `pip install pandas numpy folium`
+3. Run the analysis: `python3 Health_Disparities.py`
+4. Generate the map: `python3 charlotte_map.py`
+5. Open `charlotte_readmission_map.html` in your browser
+
 ## Author
 
 **Eli Licona** — Data Analyst · Charlotte, NC  
